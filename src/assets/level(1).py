@@ -51,7 +51,7 @@ train_attrition.head()
 
 
 
-# viewing  emp_data
+
 emp_data.head()
 
 ##dimensions 
