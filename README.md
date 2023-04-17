@@ -58,7 +58,10 @@ Check out our demo video to see WORKFORCE360 in action:
 
 [WORKFORCE360 Demo Video]
 
-https://github.com/Ahamedthaiyub/Workfoce360/issues/1#issue-1670583550
+
+https://user-images.githubusercontent.com/98688617/232415447-c5f695fe-260a-43a7-a1ae-ed68330c7f5b.mp4
+
+
 
 ## Contributors
 
