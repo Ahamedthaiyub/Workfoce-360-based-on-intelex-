@@ -1,0 +1,7 @@
+
+geopy==2.3.0
+numpy==1.22.2
+pandas==1.4.1
+PyPDF2==3.0.1
+pyresumeparser
+spacy==2.3.5
