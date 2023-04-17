@@ -11,6 +11,15 @@ The problem at hand is employee attrition, which is a significant concern for bu
 
 To achieve this, the consulting firm will leverage machine learning algorithms that can analyze patterns in the collected data. The model will use the identified features to predict whether an employee is likely to quit soon. By doing so, the company can intervene to retain the employee, thereby reducing attrition rates.
 
+# Tier 1:
+
+![alt text](https://github.com/Ahamedthaiyub/Workfoce360/blob/main/objects/Screenshot%20(252).png?raw=true))
+
+# Tier 2 and 3:
+
+![alt text](https://github.com/Ahamedthaiyub/Workfoce360/blob/main/objects/Screenshot%20(251).png?raw=true))
+
+
 # Employee Attrition Prediction
 
 Price and Waters, a data science consulting firm, aims to develop a machine learning model to predict whether an employee will likely leave the company soon. This model will enable them to take pre-emptive measures to address the underlying issues faced by the employee and minimize the likelihood of attrition.
@@ -36,11 +45,15 @@ To use our model, follow these steps:
 1. Install the required dependencies by running `pip install -r requirements.txt`.
 
 
+
+
 ## Demo Video
 
 Check out our demo video to see WORKFORCE360 in action:
 
 [WORKFORCE360 Demo Video](https://github.com/Ahamedthaiyub/Workfoce360/blob/main/objects/9G1S8SEB8FTVAPY2%20(online-video-cutter.com).mp4)
+
+
 
 ## Contributors
 
