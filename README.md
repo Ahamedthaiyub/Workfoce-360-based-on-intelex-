@@ -57,8 +57,8 @@ To use our model, follow these steps:
 Check out our demo video to see WORKFORCE360 in action:
 
 [WORKFORCE360 Demo Video]
-https://user-images.githubusercontent.com/98688617/232414104-48cf1012-369f-4f55-934e-cf44801a730d.mp4
 
+https://github.com/Ahamedthaiyub/Workfoce360/issues/1#issue-1670583550
 
 ## Contributors
 
