@@ -28,6 +28,35 @@ Price and Waters, a data science consulting firm, aims to develop a machine lear
 
 Overall, the solution entails building a predictive model that can identify employees who are likely to leave, discover the features that drive attrition, and take appropriate measures to mitigate them. The insights gained from this exercise will enable the company to reduce attrition rates and minimize the costs associated with employee turnover.
 
+# Let’s learn Intel oneAPI AI Analytics Toolkit​
+How to Achieve End-to-End Performance for AI Workloads​
+Note: The purpose of this blog is to make the learning curve of the Intel OneAPI AI Toolkit easier and help you guys understand how each toolkit works and how to implement them. Also at the end of each topic, you may find the official Intel getting started page/example notebooks which are a great resource for beginners. Happy learning!
+
+INDEX​
+# What’s OneAPI AI Toolkit
+
+Resources
+
+Want to reduce your model training and inference time but can’t afford expensive GPUs? Looking for ways to accelerate your end-to-end data science and analytics pipelines on various intel architectures? Fret not, Intel’s oneAPI AI Analytics Toolkit (AI Kit) provides intel XPU’s based optimizations for popular tools such as Python, Pandas (Modin), scikit-learn, Tensorflow, and PyTorch. This toolkit is based on the OneAPI programming model. Wait, what’s OneAPI?
+
+What’s OneAPI?​
+OneAPI is a cross-architecture language based on C++ and SYCL standards. It provides powerful libraries designed for an acceleration of domain-specified functions. The bold vision of OneAPI is to have a cross-architecture, cross vendors' software portability while providing you with all the performance your need. So no matter what devices and accelerators your system might have or what languages and libraries each of these devices are using, middleware or frameworks applications and workloads, OneAPI is bridging, abstracting and bringing all these devices to a common ground.
+
+The industry-wide spec of OneAPI defines a low-level abstraction layer inside the software stack and you can use the set of optimized libraries for various domains. for example, oneDNN the deep neural network library or oneMKL, the Math Kernal Library and more. In addition, for cross-architecture direct programming the Data Parallel C++ or DPC++ language is included. It is built on open standards and specifications. The Intel implementation of OneAPI includes many additional libraries, compilers, and analyzers. It is arranged in toolkits for specific application domains and can be downloaded in many ways or used remotely on the Intel DevCloud.
+
+Think of it as a programming model that brings many languages, libraries, and hardware to a common ground where memory spaces could be shared, code could be ported, re-used and tools could work across architectures.
+
+Intel® oneAPI AI Analytics Toolkit (AI Kit)​
+Intel AI Analytics Toolkit contains tools and frameworks to accelerate end-to-end data science and analytics pipelines on Intel® architectures. It is built using OneAPI libraries for compute optimizations.
+
+Using this toolkit, you can:
+
+Deliver high-performance, deep-learning training on Intel® XPUs and integrate fast inference into your AI development workflow with Intel®-optimized, deep-learning frameworks for TensorFlow* and PyTorch*, pre-trained models, and low-precision tools.
+
+Achieve drop-in acceleration for data preprocessing and machine-learning workflows with compute-intensive Python* packages, Modin*, scikit-learn*, and XGBoost, optimized for Intel.
+
+Gain direct access to analytics and AI optimizations from Intel to ensure that your software works together seamlessly.
+
 
 
 ## Features
