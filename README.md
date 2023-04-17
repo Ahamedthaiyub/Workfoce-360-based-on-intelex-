@@ -13,11 +13,11 @@ To achieve this, the consulting firm will leverage machine learning algorithms t
 
 # Tier 1:
 
-![alt text](https://github.com/Ahamedthaiyub/Workfoce360/blob/main/objects/Screenshot%20(252).png?raw=true))
+![alt text](https://github.com/Ahamedthaiyub/Workfoce360/blob/main/objects/Screenshot%20(252).png?raw=true)
 
 # Tier 2 and 3:
 
-![alt text](https://github.com/Ahamedthaiyub/Workfoce360/blob/main/objects/Screenshot%20(251).png?raw=true))
+![alt text](https://github.com/Ahamedthaiyub/Workfoce360/blob/main/objects/Screenshot%20(251).png?raw=true)
 
 
 # Employee Attrition Prediction
@@ -43,7 +43,8 @@ Our model offers the following features:
 To use our model, follow these steps:
 
 1. Install the required dependencies by running `pip install -r requirements.txt`.
-
+2. git clone 'https://github.com/Ahamedthaiyub/Workfoce360'.
+3. git-init to initialize git.
 
 
 
