@@ -41,23 +41,20 @@ about recruitment and employee retention.</p>
 
 <h2 id="what-did-we-do">What did we do?</h2>
 
-<p>Create a README generator so I can quickly create a professional README for a new project.</p>
+<p>creating an optimzation system in employee attrition system to maximize the profit of the IT tech parks.</p>
 
 <ul class="task-list">
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Provide a command-line application that accepts user input</li>
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />When I am prompted for information about my application repository, then a high-quality, professional README is generated with the title of my project and sections entitled Description</li>
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />When I enter my project title, then this is displayed as the title of the README</li>
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />When I enter a description, installation instructions, usage information, contribution guidelines and test instructions then this is added to the correlated sections</li>
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />When I choose a license for my application from a list of options, then a badge for that license is added near the top of the README</li>
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />When I enter my Github username, this is added as a link to my github profile under the section entitled Questions</li>
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />When I enter my email address, this is added as a link to my github profile under the section entitled Questions with instructions on how to reach me.</li>
-  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />When I click on the links in the Table of contents, then I am taken to the corresponding section of the README.</li>
-</ul>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Workforce360 is a powerful Machine Learning model that helps companies predict employee attrition, enabling them to make informed decisions about employee retention and recruitment.</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />The model consists of three tiers, including resume parsing, predictive analytics, and performance prediction, which together provide a comprehensive HR solution.</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" >Using advanced predictive analytics techniques, Workforce360 can then generate accurate predictions of employee attrition based on a wide range of factors, including job role, salary, performance metrics, and more.</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />By combining these predictive insights with real-time data on employee performance, Workforce360 can also provide performance predictions, enabling companies to identify high-performing employees who are at risk of leaving and take proactive steps to retain them.</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Ultimately, Workforce360 is an essential tool for any company looking to optimize its recruitment and retention strategies and maximize the potential of its workforce.E</li>
+ 
 
 <h2 id="getting-started">Getting started</h2>
 
 <ul>
-  <li>Create a new GitHub repository called readme-generator</li>
+  <li>Create a new GitHub repository called <b>WorkForce360</b></li>
   <li>Clone github project onto your local machine</li>
   <li>Navigate into the project</li>
   <li>Open the project into VS code</li>
