@@ -19,7 +19,7 @@ To achieve this, the consulting firm will leverage machine learning algorithms t
 ![alt text](https://github.com/Ahamedthaiyub/Workfoce360/blob/main/objects/Screenshot%20(251).png?raw=true)
 
 
-# Employee Attrition Prediction
+# story of the model
 
 Price and Waters, a data science consulting firm, aims to develop a machine learning model to predict whether an employee will likely leave the company soon. This model will enable them to take pre-emptive measures to address the underlying issues faced by the employee and minimize the likelihood of attrition.
 
