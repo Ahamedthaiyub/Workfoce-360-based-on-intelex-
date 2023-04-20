@@ -59,10 +59,9 @@ https://user-images.githubusercontent.com/98688617/232415447-c5f695fe-260a-43a7-
 
 
 ## Currently
-  we are making a website of this so below is the demo of  our website how its works and also the github files contains only the demo model of xxxx company in 2012 dataset. how its works👇👇. this website is currently availabale only for medical dept which is DOCTOR-OPPURTUNITIES (Doc-opp).Here also we used intelex extension for making optimized model.
+  we are making a website of this so below is the demo of  our website how its works and also the github files contains only the demo model of xxxx company in 2012 dataset. how its works👇👇. this website is currently availabale only for medical dept which is DOCTOR-OPPURTUNITIES (Doc-opp).Here also we used intelex extension for making optimized model.This model yet to publish so we can't provide an git resource👇👇.This is my  intern team decision. 
 
 https://user-images.githubusercontent.com/98688617/233414439-02304fbf-c0d4-4cb6-afd0-de1a619eb794.mp4
-
 
 
 ## Contributors
