@@ -59,7 +59,9 @@ https://user-images.githubusercontent.com/98688617/232415447-c5f695fe-260a-43a7-
 
 
 ## Currently
-  we are making a website of this so below is the demo of  our website how its works and also the github files contains only the demo model of xxxx company in 2012 dataset. how its works👇👇. this website is currently availabale only for medical dept which is DOCTOR-OPPURTUNITIES (Doc-opp).Here also we used intelex extension for making optimized model.This model yet to publish so we can't provide any git resource👇. This is my (Ahamed Thaiyub A ) intern team decision. 
+"We are creating a website showcasing our data-driven solutions, and we have a demo using the dataset from xxxx company in 2012, which is included in our GitHub files. Our website is currently only available for the medical industry, specifically for our Doctor-Opportunities (Doc-opp) platform. For optimizing our model, we utilized the Intelex extension. However, this model is not yet ready for publication, so we cannot provide any GitHub resources at this time. This decision was made by myself, Ahamed Thaiyub A, and my intern team."
+
+##demo
 
 https://user-images.githubusercontent.com/98688617/233414439-02304fbf-c0d4-4cb6-afd0-de1a619eb794.mp4
 
