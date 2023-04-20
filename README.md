@@ -69,8 +69,8 @@ https://user-images.githubusercontent.com/98688617/233414439-02304fbf-c0d4-4cb6-
 
 This project was developed by the following team members:
 
-- Ahamed Thaiyub A
-- DhamoDharan B
+- Ahamed Thaiyub A(CSE)
+- Dhamodharan B(EEE)
 
 ## License
 
