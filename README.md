@@ -60,8 +60,9 @@ https://user-images.githubusercontent.com/98688617/232415447-c5f695fe-260a-43a7-
 
 ## Currently
 "We are creating a website showcasing our data-driven solutions, and we have a demo using the dataset from xxxx company in 2012, which is included in our GitHub files. Our website is currently only available for the medical industry, specifically for our Doctor-Opportunities (Doc-opp) platform. For optimizing our model, we utilized the Intelex extension. However, this model is not yet ready for publication, so we cannot provide any GitHub resources at this time. This decision was made by myself, Ahamed Thaiyub A, and my intern team."
+## demo
 
-##demo
+
 
 https://user-images.githubusercontent.com/98688617/233414439-02304fbf-c0d4-4cb6-afd0-de1a619eb794.mp4
 
