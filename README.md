@@ -67,6 +67,11 @@ https://user-images.githubusercontent.com/98688617/232415447-c5f695fe-260a-43a7-
 https://user-images.githubusercontent.com/98688617/233414439-02304fbf-c0d4-4cb6-afd0-de1a619eb794.mp4
 
 
+## File locations
+
+
+https://github.com/Ahamedthaiyub/Workfoce-360-based-on-intelex-/tree/main/src/assets/system
+
 ## Output of our model
 ## Tire 1
 ![s1](https://github.com/Ahamedthaiyub/Workfoce360/blob/main/objects/Screenshot%20(258).png?raw=true)
