@@ -67,6 +67,18 @@ https://user-images.githubusercontent.com/98688617/232415447-c5f695fe-260a-43a7-
 https://user-images.githubusercontent.com/98688617/233414439-02304fbf-c0d4-4cb6-afd0-de1a619eb794.mp4
 
 
+## Output of our model
+## Tire 1
+![alt text](https://github.com/Ahamedthaiyub/Workfoce360/blob/main/objects/Screenshot%20(258).png?raw=true)
+## Tire 2
+
+![alt text](https://github.com/Ahamedthaiyub/Workfoce360/blob/main/objects/Screenshot%20(257).png?raw=true)
+## Tire 3
+![alt text](https://github.com/Ahamedthaiyub/Workfoce360/blob/main/objects/Screenshot%20(256).png?raw=true)
+
+## Note 
+It's important that github does'nt supports cufflinks and poltly, So visuals are not there in  Tire 3. So if you wish to see it kindly clone the git files.
+
 ## Contributors
 
 This project was developed by the following team members:
