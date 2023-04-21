@@ -70,7 +70,8 @@ https://user-images.githubusercontent.com/98688617/233414439-02304fbf-c0d4-4cb6-
 ## Output of our model
 ## Tire 1
 ![alt text](https://github.com/Ahamedthaiyub/Workfoce360/blob/main/objects/Screenshot%20(258).png?raw=true)
-## Tire 2
+## Tire 2 
+Here the CPU uptime is optimized by (Intel-One-API) ,So it is very efficient.
 
 ![alt text](https://github.com/Ahamedthaiyub/Workfoce360/blob/main/objects/Screenshot%20(257).png?raw=true)
 ## Tire 3
