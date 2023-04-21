@@ -21,7 +21,7 @@ To achieve this, the consulting firm will leverage machine learning algorithms t
 
 # story of the model
 
-Price and Waters, a data science consulting firm, aims to develop a machine learning model to predict whether an employee will likely leave the company soon. This model will enable them to take pre-emptive measures to address the underlying issues faced by the employee and minimize the likelihood of attrition.
+ A data science consulting firm, aims to develop a machine learning model to predict whether an employee will likely leave the company soon. This model will enable them to take pre-emptive measures to address the underlying issues faced by the employee and minimize the likelihood of attrition.
 
 
 
