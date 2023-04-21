@@ -12,11 +12,11 @@ To achieve this, the consulting firm will leverage machine learning algorithms t
 
 # Tier 1:
 
-![alt text](https://github.com/Ahamedthaiyub/Workfoce360/blob/main/objects/Screenshot%20(252).png?raw=true)
+![TIRE 1](https://github.com/Ahamedthaiyub/Workfoce360/blob/main/objects/Screenshot%20(252).png?raw=true)
 
 # Tier 2 and 3:
 
-![alt text](https://github.com/Ahamedthaiyub/Workfoce360/blob/main/objects/Screenshot%20(251).png?raw=true)
+![TIRE 2 AND 3](https://github.com/Ahamedthaiyub/Workfoce360/blob/main/objects/Screenshot%20(251).png?raw=true)
 
 
 # story of the model
@@ -69,13 +69,13 @@ https://user-images.githubusercontent.com/98688617/233414439-02304fbf-c0d4-4cb6-
 
 ## Output of our model
 ## Tire 1
-![alt text](https://github.com/Ahamedthaiyub/Workfoce360/blob/main/objects/Screenshot%20(258).png?raw=true)
+![s1](https://github.com/Ahamedthaiyub/Workfoce360/blob/main/objects/Screenshot%20(258).png?raw=true)
 ## Tire 2 
 Here the CPU uptime is optimized by (Intel-One-API) ,So it is very efficient.
 
-![alt text](https://github.com/Ahamedthaiyub/Workfoce360/blob/main/objects/Screenshot%20(257).png?raw=true)
+![s2](https://github.com/Ahamedthaiyub/Workfoce360/blob/main/objects/Screenshot%20(257).png?raw=true)
 ## Tire 3
-![alt text](https://github.com/Ahamedthaiyub/Workfoce360/blob/main/objects/Screenshot%20(256).png?raw=true)
+![s3](https://github.com/Ahamedthaiyub/Workfoce360/blob/main/objects/Screenshot%20(256).png?raw=true)
 
 ## Note 
 It's important that github does'nt supports cufflinks and poltly, So visuals are not there in  Tire 3. So if you wish to see it kindly clone the git files.
