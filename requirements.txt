@@ -6,4 +6,5 @@ pandas==1.4.1
 PyPDF2==3.0.1
 pyresumeparser
 spacy==2.3.5
-scikit-learn 
+scikit-learn==0.15.2 
+Python==3.9
