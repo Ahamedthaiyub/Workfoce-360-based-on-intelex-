@@ -103,3 +103,4 @@ This project was developed by the following team members:
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+-----------------------------------------------------------------------------------------------------------------------------------------------
