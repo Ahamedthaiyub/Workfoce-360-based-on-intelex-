@@ -103,7 +103,7 @@ It's important that github does'nt supports cufflinks and poltly, So visuals are
 This project was developed by the following team members:
 
 - Ahamed Thaiyub A(CSE)
-- Dhamodharan B(EEE)
+
 
 ## License
 
