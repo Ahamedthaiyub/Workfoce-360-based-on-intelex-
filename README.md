@@ -6,7 +6,7 @@
 5. [License](#license)
  -->
 
-
+![workforce-360](https://github.com/Ahamedthaiyub/Workfoce360/blob/main/Screenshot%20(266).png?raw=true)
 # WORKFORCE-360    (based on Intel-One-API Toolkit)
 "WORKFORCE360 is a machine learning model associated with Intel One API. It is designed to predict employee attrition, which can help companies retain valuable employees and reduce costs associated with turnover. Our three-tier solution includes resume parsing, predictive analytics, and performance prediction, providing a comprehensive HR solution that helps companies make informed decisions about recruitment and employee retention. 
 ## Problem Statement
