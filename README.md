@@ -44,7 +44,7 @@ https://user-images.githubusercontent.com/98688617/232415447-c5f695fe-260a-43a7-
 Overall, the solution entails building a predictive model that can identify employees who are likely to leave, discover the features that drive attrition, and take appropriate measures to mitigate them. The insights gained from this exercise will enable the company to reduce attrition rates and minimize the costs associated with employee turnover.
 
 # Let’s learn Intel oneAPI AI Analytics Toolkit​
-# Introduction
+# Introduction:
 
 One of the main challenges in machine learning is optimizing the code for better performance. This is where Intel One API comes in. Intel One API provides a unified and simplified programming model for accelerating the execution of high-performance computing (HPC), artificial intelligence (AI), and internet of things (IoT) workloads. By using Intel One API, we can optimize the performance of the Workforce 360 model, making it faster and more efficient.
 
