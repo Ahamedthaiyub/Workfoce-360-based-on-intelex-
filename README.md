@@ -1,8 +1,4 @@
-<!-- ## Table of Contents
-1. [Installation](#installation)
-2. [Usage](#usage)
-3. [Contributors](#Contributors)
-4. [Credits](#credits)
+
 
  -->
 
