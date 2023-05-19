@@ -3,7 +3,7 @@
 2. [Usage](#usage)
 3. [Contributors](#Contributors)
 4. [Credits](#credits)
-5. [License](#license)
+
  -->
 
 ![workforce-360](https://github.com/Ahamedthaiyub/Workfoce360/blob/main/Screenshot%20(266).png?raw=true)
