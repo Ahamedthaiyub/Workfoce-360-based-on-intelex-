@@ -10,7 +10,7 @@
 The problem at hand is employee attrition, which is a significant concern for businesses due to its costs associated with rehiring, retraining, loss of productivity, and workflow disruptions. The firm has collected employee performance data for a select number of months, randomly chosen for each employee. They intend to analyze this data to identify specific features that are highly indicative of attrition. This will provide insights into the reasons why employees leave and help the company take appropriate actions to mitigate such issues.
 
 
-## Solution -->
+## Solution 
 
 To achieve this, the consulting firm will leverage machine learning algorithms that can analyze patterns in the collected data. The model will use the identified features to predict whether an employee is likely to quit soon. By doing so, the company can intervene to retain the employee, thereby reducing attrition rates.
 
