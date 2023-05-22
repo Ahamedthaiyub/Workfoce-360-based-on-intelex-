@@ -22,11 +22,11 @@ https://user-images.githubusercontent.com/98688617/232415447-c5f695fe-260a-43a7-
 ## Methodology
 ![Methodology](https://github.com/Ahamedthaiyub/Workfoce360/blob/main/Screenshot%20(267).png?raw=true)
 
-# Tier 1:
+# Tier 1
 
 ![TIRE 1](https://github.com/Ahamedthaiyub/Workfoce360/blob/main/objects/Screenshot%20(252).png?raw=true)
 
-# Tier 2 and 3:
+# Tier 2 and 3
 
 ![TIRE 2 AND 3](https://github.com/Ahamedthaiyub/Workfoce360/blob/main/objects/Screenshot%20(251).png?raw=true)
 
