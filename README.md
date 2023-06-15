@@ -16,7 +16,6 @@ The problem at hand is employee attrition, which is a significant concern for bu
 To achieve this, the consulting firm will leverage machine learning algorithms that can analyze patterns in the collected data. The model will use the identified features to predict whether an employee is likely to quit soon. By doing so, the company can intervene to retain the employee, thereby reducing attrition rates.
 
 ## About
-
 https://user-images.githubusercontent.com/98688617/232415447-c5f695fe-260a-43a7-a1ae-ed68330c7f5b.mp4
 
 ## Methodology-
