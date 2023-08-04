@@ -98,7 +98,7 @@ It's important that github does'nt supports cufflinks and poltly, So visuals are
 
 ## Contributors-
 
-This project was developed by the following team members:
+This project was developed by 
 
 - Ahamed Thaiyub A(CSE)
 
