@@ -174,6 +174,7 @@ def main():
             for token  in resume_list:
                 if token.lower() in skills:
                     skill_list.append(token)
+                   
     print(skill_list)
 
 if __name__ == "__main__":
