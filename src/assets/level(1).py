@@ -11,6 +11,7 @@ drive.mount('/content/drive')
 
 pip install scikit-learn-intelex
 
+
 """INTSLLATION OF REQUIREMENTS :
 
 ## PROBLEM STATEMENT
@@ -95,6 +96,7 @@ test_attrition.head()
 
 ## Merging the train data into a single datafrfame
 """
+
 
 train_emp_data = pd.merge(train_attrition, emp_data, how='left', on='EmployeeID')
 
