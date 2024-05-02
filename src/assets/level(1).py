@@ -327,6 +327,7 @@ test_final.fillna(value=0, inplace=True)
 
 
 
+
 #standardize 
 
 std = StandardScaler() #Instantiating an object. 
