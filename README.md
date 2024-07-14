@@ -1,5 +1,4 @@
 
-.
 
 ![workforce-360](https://github.com/Ahamedthaiyub/Workfoce360/blob/main/Screenshot%20(266).png?raw=true)
 
