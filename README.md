@@ -41,7 +41,7 @@ Overall, the solution entails building a predictive model that can identify empl
 # Introduction:
 
 One of the main challenges in machine learning is optimizing the code for better performance. This is where Intel One API comes in. Intel One API provides a unified and simplified programming model for accelerating the execution of high-performance computing (HPC), artificial intelligence (AI), and internet of things (IoT) workloads. By using Intel One API, we can optimize the performance of the Workforce 360 model, making it faster and more efficient.
-
+-
 
 
 ## Features-
