@@ -111,9 +111,6 @@ train = train_final.groupby('EmployeeID').agg('max')
 
 train.head()
 
-"""## Merging the test data into Single data frame. 
-
-"""
 
 test_emp_data = pd.merge(test_attrition, emp_data, how='left', on='EmployeeID')
 
@@ -130,7 +127,7 @@ test.shape
 train.to_csv("train.csv", index=True)
 test.to_csv("test.csv", index=True)
 
-"""## Feature engineering:"""
+
 
 train_final = pd.read_csv("/content/train.csv")
 test_final = pd.read_csv("/content/test.csv")
@@ -186,7 +183,7 @@ for col in ['TotalWorkingHours','Billable_Hours','Hours_off_Duty','Touring_Hours
 
 
 
-"""### Converting objects to categories """
+
 
 for col in ['Sex','Designation','NoOfProjects','joining_year','joining_month','Job_History']:
   train_final[col] = train_final[col].astype('category')
@@ -343,10 +340,6 @@ print(std_test.shape)
 
 
 
-"""# Models On complete std data without splitting : 
-
- 
-"""
 
 log_reg = LogisticRegression()
 
