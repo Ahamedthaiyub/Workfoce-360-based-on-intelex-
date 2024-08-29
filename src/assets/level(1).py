@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+
 """level(1).ipynb
  
 Author :Ahamed Thaiyub A
@@ -155,7 +155,7 @@ train_final[['joining_year','joining_month']] = train_final['Joining_Date'].str.
 
 test_final[['joining_year','joining_month']] = test_final['Joining_Date'].str.split("_", expand=True)
 
-#checking
+
 train_final.head()
 
 train_final['job_count'] = train_final['Job_History'].str.split(',').str.len()
